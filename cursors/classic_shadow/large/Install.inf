@@ -1,6 +1,9 @@
+; macOS hight DPI cursors made by antiden
+; https://vk.com/antiden
+
 [Version]
 signature="$CHICAGO$"
-macOS hight DPI cursors for Windows
+macOS hight DPI cursors for Windows made by antiden
 
 [DefaultInstall]
 CopyFiles = Scheme.Cur
@@ -65,8 +68,8 @@ Zoom-out.cur
 [Scheme.Txt]
 
 [Strings]
-CUR_DIR       = "Cursors\macosCursors-s-n"
-SCHEME_NAME   = "macOS Cursors With Shadow Newer"
+CUR_DIR       = "Cursors\macosCursorsL-s-b"
+SCHEME_NAME   = "macOS Cursors L With Shadow Before"
 pointer       = "Normal.cur"
 help          = "Help.cur"
 work          = "Working.ani"
@@ -88,5 +91,4 @@ pan           = "Pan.cur"
 grab          = "Move.cur"
 grabbing      = "Closehand.cur"
 zoom-in       = "Zoom-in.cur"
-zoom-out      = "Zoom-out.cur"
 zoom-out      = "Zoom-out.cur"

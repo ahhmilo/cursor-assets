@@ -1,6 +1,9 @@
+; macOS hight DPI cursors made by antiden
+; https://vk.com/antiden
+
 [Version]
 signature="$CHICAGO$"
-macOS hight DPI cursors for Windows
+macOS hight DPI cursors for Windows made by antiden
 
 [DefaultInstall]
 CopyFiles = Scheme.Cur
